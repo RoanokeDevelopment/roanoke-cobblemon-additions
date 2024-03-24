@@ -7,13 +7,13 @@
             "id": "muk-2",
             "pokemon": "muk alolan",
             "presets": [
-                "natural"
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",
             "level": "38-48",
-            "weight": 9.0,
+            "weight": 18.0,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [

@@ -6,6 +6,9 @@
         {
             "id": "togedemaru-1",
             "pokemon": "togedemaru",
+            "presets": [
+                "natural"
+            ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",

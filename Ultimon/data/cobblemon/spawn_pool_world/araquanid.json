@@ -6,6 +6,9 @@
         {
             "id": "araquanid-1",
             "pokemon": "araquanid",
+            "presets": [
+                "natural"
+            ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",

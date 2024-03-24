@@ -7,13 +7,13 @@
             "id": "grimer-2",
             "pokemon": "grimer alolan",
             "presets": [
-                "natural"
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",
             "level": "14-37",
-            "weight": 10.0,
+            "weight": 20.0,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [

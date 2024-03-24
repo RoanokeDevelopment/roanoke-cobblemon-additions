@@ -6,6 +6,9 @@
         {
             "id": "scovillain-1",
             "pokemon": "scovillain",
+            "presets": [
+                "natural"
+            ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",

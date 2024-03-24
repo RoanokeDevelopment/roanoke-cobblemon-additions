@@ -6,6 +6,9 @@
         {
           "id": "dragapult-1",
           "pokemon": "dragapult",
+          "presets": [
+                "natural"
+            ],
           "type": "pokemon",
           "context": "grounded",
           "bucket": "rare",
@@ -22,6 +25,9 @@
         {
           "id": "dragapult-2",
           "pokemon": "dragapult",
+          "presets": [
+                "natural"
+            ],
           "type": "pokemon",
           "context": "grounded",
           "bucket": "rare",

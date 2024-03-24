@@ -14,7 +14,14 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#minecraft:is_beach"
+                    "#cobblemon:is_beach",
+                    "#cobblemon:is_ocean",
+                    "#cobblemon:is_river"
+                ],
+                "neededBaseBlocks": [
+                    "minecraft:sand",
+                    "minecraft:sandstone",
+                    "minecraft:smooth_sandstone"
                 ]
             }
         }

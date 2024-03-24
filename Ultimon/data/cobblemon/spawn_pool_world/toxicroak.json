@@ -4,8 +4,11 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "croagunk-1",
-            "pokemon": "croagunk",
+            "id": "toxicroak-1",
+            "pokemon": "toxicroak",
+            "presets": [
+                "natural"
+            ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",
@@ -19,8 +22,11 @@
             }
         },
 		{
-            "id": "croagunk-2",
-            "pokemon": "croagunk",
+            "id": "toxicroak-2",
+            "pokemon": "toxicroak",
+            "presets": [
+                "natural"
+            ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",

@@ -6,6 +6,9 @@
         {
             "id": "larvesta-1",
             "pokemon": "larvesta",
+            "presets": [
+                "natural"
+            ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",

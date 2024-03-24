@@ -6,6 +6,9 @@
         {
             "id": "shellos-west",
             "pokemon": "shellos west=true",
+            "presets": [
+                "natural"
+            ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",

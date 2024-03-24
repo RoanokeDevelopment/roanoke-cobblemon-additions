@@ -6,6 +6,9 @@
         {
           "id": "dreepy-1",
           "pokemon": "dreepy",
+          "presets": [
+                "natural"
+            ],
           "type": "pokemon",
           "context": "grounded",
           "bucket": "rare",
@@ -22,6 +25,9 @@
         {
           "id": "dreepy-2",
           "pokemon": "dreepy",
+          "presets": [
+                "natural"
+            ],
           "type": "pokemon",
           "context": "grounded",
           "bucket": "rare",

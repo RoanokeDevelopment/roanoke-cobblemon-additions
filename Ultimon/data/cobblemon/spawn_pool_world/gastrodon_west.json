@@ -6,6 +6,9 @@
         {
             "id": "gastrodon-west",
             "pokemon": "gastrodon west=true",
+            "presets": [
+                "natural"
+            ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "rare",
