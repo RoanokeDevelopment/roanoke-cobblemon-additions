@@ -72,21 +72,15 @@
         "cobblemon.species.minccino.desc2"
     ],
     "evolutions": [
-        {
-            "id": "minccino_cinccino",
-            "variant": "level_up",
-            "result": "cinccino",
-            "consumeHeldItem": true,
-            "learnableMoves": [],
-			"requirements": [
-			{
-          "variant": "held_item",
-          "itemCondition": "cobblemon:shiny_stone"
-			},
-			{
-          "variant": "level",
-          "minLevel": 1
-			}
+    {
+      "id": "minccino_cinccino",
+      "variant": "item_interact",
+      "result": "cinccino",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "cobblemon:shiny_stone"
+    }
         ]
     }
 ], 
