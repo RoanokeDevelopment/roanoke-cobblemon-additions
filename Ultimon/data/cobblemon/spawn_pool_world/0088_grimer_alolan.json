@@ -1,5 +1,5 @@
 {
-    "enabled": true,
+    "enabled": "true",
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
@@ -7,13 +7,13 @@
             "id": "grimer-2",
             "pokemon": "grimer alolan",
             "presets": [
-                "urban"
+                "natural"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",
             "level": "14-37",
-            "weight": 14.0,
+            "weight": 6.0,
             "weightMultiplier": {
                 "multiplier": 1.5,
                 "condition": {

@@ -1,5 +1,5 @@
 {
-    "enabled": true,
+    "enabled": "true",
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
@@ -7,7 +7,7 @@
             "id": "muk-2",
             "pokemon": "muk alolan",
             "presets": [
-                "urban"
+                "natural"
             ],
             "type": "pokemon",
             "context": "grounded",

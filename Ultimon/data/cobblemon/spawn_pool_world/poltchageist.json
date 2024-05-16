@@ -17,7 +17,8 @@
             "condition": {
                 "biomes": [
                     "#cobblemon:is_spooky"
-                ]
+                ],
+                "minY": 32
             }
         }
     ]

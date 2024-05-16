@@ -6,6 +6,9 @@
         {
             "id": "sandygast-1",
             "pokemon": "sandygast",
+            "presets": [
+                "natural"
+            ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",
