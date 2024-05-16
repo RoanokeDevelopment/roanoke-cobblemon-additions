@@ -17,6 +17,7 @@
             "condition": {
                 "canSeeSky": false,
 				"minY": 0,
+                "maxY": 62,
                 "biomes": [
                     "#cobblemon:is_overworld"
                 ]

@@ -13,7 +13,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "20-30",
-            "weight": 20.0,
+            "weight": 10.0,
             "condition": {
                 "biomes": [
                     "#cobblemon:is_peak"
@@ -30,7 +30,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "20-30",
-            "weight": 20.0,
+            "weight": 10.0,
             "condition": {
                 "biomes": [
                     "#cobblemon:is_nether"
@@ -48,7 +48,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "20-30",
-            "weight": 20.0,
+            "weight": 10.0,
             "condition": {
                 "timeRange": "night",
                 "canSeeSky": true,
@@ -68,7 +68,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "20-30",
-            "weight": 20.0,
+            "weight": 10.0,
             "condition": {
                 "timeRange": "night",
                 "canSeeSky": true,
@@ -88,7 +88,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "20-30",
-            "weight": 20.0,
+            "weight": 10.0,
             "condition": {
                 "timeRange": "night",
                 "canSeeSky": true,
@@ -108,7 +108,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "20-30",
-            "weight": 20.0,
+            "weight": 10.0,
             "condition": {
                 "timeRange": "night",
                 "canSeeSky": true,
@@ -128,7 +128,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "20-30",
-            "weight": 20.0,
+            "weight": 10.0,
             "condition": {
                 "timeRange": "night",
                 "canSeeSky": true,
@@ -148,7 +148,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "20-30",
-            "weight": 20.0,
+            "weight": 10.0,
             "condition": {
                 "biomes": [
                     "#cobblemon:is_end"
