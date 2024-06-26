@@ -9,6 +9,19 @@
     "stormdrain",
     "h:sandforce"
   ],
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:clay_ball",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:rindo_berry",
+        "percentage": 5.0
+      }
+    ]
+  },
   "baseStats": {
     "hp": 111,
     "attack": 83,
@@ -54,15 +67,20 @@
     "1:harden",
     "1:mudslap",
     "1:mudsport",
+    "1:recover",
     "1:watergun",
     "1:waterpulse",
     "11:mudbomb",
+    "15:waterpulse",
     "16:hiddenpower",
     "20:ancientpower",
     "22:raindance",
+    "25:bodyslam",
     "29:bodyslam",
+    "33:muddywater",
     "39:earthpower",
     "41:muddywater",
+    "46:raindance",
     "53:memento",
     "54:recover",
     "tm:amnesia",
@@ -74,6 +92,7 @@
     "tm:captivate",
     "tm:chillingwater",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
     "tm:dive",
     "tm:doubleteam",
@@ -97,6 +116,7 @@
     "tm:mudshot",
     "tm:mudslap",
     "tm:naturalgift",
+    "tm:painsplit",
     "tm:protect",
     "tm:raindance",
     "tm:rest",
@@ -110,6 +130,7 @@
     "tm:sandtomb",
     "tm:scald",
     "tm:secretpower",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:sludgebomb",
     "tm:sludgewave",
@@ -166,6 +187,19 @@
     "stormdrain",
     "h:sandforce"
   ],
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:clay_ball",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:rindo_berry",
+        "percentage": 5.0
+      }
+    ]
+  },
   "baseStats": {
     "hp": 111,
     "attack": 83,
@@ -188,15 +222,20 @@
     "1:harden",
     "1:mudslap",
     "1:mudsport",
+    "1:recover",
     "1:watergun",
     "1:waterpulse",
     "11:mudbomb",
+    "15:waterpulse",
     "16:hiddenpower",
     "20:ancientpower",
     "22:raindance",
+    "25:bodyslam",
     "29:bodyslam",
+    "33:muddywater",
     "39:earthpower",
     "41:muddywater",
+    "46:raindance",
     "53:memento",
     "54:recover",
     "tm:amnesia",
@@ -208,6 +247,7 @@
     "tm:captivate",
     "tm:chillingwater",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
     "tm:dive",
     "tm:doubleteam",
@@ -231,6 +271,7 @@
     "tm:mudshot",
     "tm:mudslap",
     "tm:naturalgift",
+    "tm:painsplit",
     "tm:protect",
     "tm:raindance",
     "tm:rest",
@@ -244,6 +285,7 @@
     "tm:sandtomb",
     "tm:scald",
     "tm:secretpower",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:sludgebomb",
     "tm:sludgewave",
