@@ -1,40 +1,40 @@
 {
+    "implemented": true,
     "enabled": true,
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "corsola-1",
+			"id": "corsola-1",
             "pokemon": "corsola",
-            "type": "pokemon",
-            "context": "submerged",
-            "bucket": "common",
-            "level": "15-45",
-            "weight": 2,
-            "condition": {
-                "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_lukewarm"
-                ]
-			}
-		},
-		{
-			"id": "corsola-2",
-            "pokemon": "corsola",
-			"presets": [
-                "freshwater",
+            "presets": [
                 "underwater"
             ],
             "type": "pokemon",
             "context": "submerged",
-            "bucket": "common",
-            "level": "15-45",
-            "weight": 7.2,
+            "bucket": "uncommon",
+            "level": "28-45",
+            "weight": 8.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
-                    "minecraft:warm_ocean",
-					"minecraft:deep_warm_ocean"
+                    "#minecraft:is_ocean"
+                ]
+            }
+        },
+        {
+            "id": "corsola-2",
+            "pokemon": "corsola",
+            "presets": [
+			"underwater"
+			],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "uncommon",
+            "level": "15-60",
+            "weight": 9.2,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_warm_ocean"
                 ]
             }
         }
