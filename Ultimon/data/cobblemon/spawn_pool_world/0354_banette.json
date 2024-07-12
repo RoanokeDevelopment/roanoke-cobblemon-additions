@@ -32,7 +32,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "37-45",
-            "weight": 0.1,
+            "weight": 1.0,
             "condition": {
                 "timeRange": "night",
                 "biomes": [

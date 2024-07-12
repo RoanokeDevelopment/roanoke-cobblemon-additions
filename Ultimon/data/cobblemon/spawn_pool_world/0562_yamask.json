@@ -26,6 +26,24 @@
                 ],
                 "maxY": 60
             }
+        },
+        {
+            "id": "yamask-3",
+            "pokemon": "yamask galarian",
+            "presets": [
+                "ruins"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "10-33",
+            "weight": 10.0,
+            "condition": {
+                "timeRange": "night",
+		"biomes": [
+                    "#cobblemon:is_overworld"
+                ]
+            }
         }
     ]
 }

@@ -26,6 +26,24 @@
                 ],
                 "maxY": 60
             }
+        },
+        {
+            "id": "runerigus-2",
+            "pokemon": "runerigus",
+            "presets": [
+                "ruins"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "34-43",
+            "weight": 1.0,
+            "condition": {
+                "timeRange": "night",
+		"biomes": [
+                    "#cobblemon:is_overworld"
+                ]
+            }
         }
     ]
 }
