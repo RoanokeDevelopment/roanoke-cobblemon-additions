@@ -1,15 +1,13 @@
 {
     "head": "head",
-    "portraitScale": 1.4,
-    "portraitTranslation": [ -0.3, 1, 0 ],
-    "profileScale": 0.65,
-    "profileTranslation": [ 0, 0.95, 0 ],
-    "faint": "bedrock(celebi, faint)",
+	"portraitScale": 2.4,
+    "portraitTranslation": [ -0.1, 0, 0 ],
+    "profileScale": 0.9,
+    "profileTranslation": [ 0, 0.6, 0 ],
     "poses": {
-
       "standing": {
         "poseName": "standing",
-        "transformTicks": 1,
+        "transformTicks": 10,
         "poseTypes": [
           "STAND",
           "NONE",
@@ -18,33 +16,28 @@
         ],
         "animations": [
           "bedrock(celebi, ground_idle)"
-        ],
-        "quirks": [
-          {
-            "name": "blink",
-            "animations": ["bedrock(celebi, blink)"]
-          }
         ]
       },
       "walking": {
         "poseName": "walking",
-        "transformTicks": 1,
-        "poseTypes": [ "WALK" ],
-        "animations": [   
-          "bedrock(celebi, ground_walk)" ],
-        "quirks": [
-          {
-            "name": "blink",
-            "animations": ["bedrock(celebi, blink)"]
-          }
-        ]
-      },
-      "sleeping": {
-        "poseName": "sleeping",
         "transformTicks": 10,
-        "poseTypes": [ "SLEEP" ],
-        "animations": [   
-          "bedrock(celebi, sleep)" ]
-          }
+        "poseTypes": [ "WALK" ],
+        "animations": [ "bedrock(celebi, ground_walk)" 
+		]
+		},
+    "flying": {
+      "poseName": "flying",
+      "transformTicks": 10,
+      "poseTypes": [ "FLY" ],
+      "animations": [ "bedrock(celebi, ground_walk)" 
+	  ]
+    },
+	"hovering": {
+      "poseName": "hovering",
+      "transformTicks": 10,
+      "poseTypes": [ "HOVER" ],
+      "animations": [ "bedrock(celebi, ground_idle)" 
+	  ]
       }
     }
+  }

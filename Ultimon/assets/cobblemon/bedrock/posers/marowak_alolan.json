@@ -16,7 +16,13 @@
         ],
         "animations": [
           "bedrock(marowak_alolan, ground_idle)"
-        ]
+        ],
+		"quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(marowak_alolan, blink)"]
+          }
+		]		  
       },
       "walking": {
         "poseName": "walking",
