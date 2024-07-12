@@ -64,8 +64,8 @@
       },
       "baseScale": 1.2,
       "hitbox": {
-        "width": 1.5,
-        "height": 1.1,
+        "width": 1.4,
+        "height": 1,
         "fixed": false
       },
       "experienceGroup": "medium_fast",
