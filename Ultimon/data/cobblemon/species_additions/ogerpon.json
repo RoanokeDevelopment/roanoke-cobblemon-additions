@@ -1,5 +1,5 @@
 {
-    "target": "cobblemon:gastrodon",
+    "target": "cobblemon:ogerpon",
     "behaviour": {
         "resting": {
             "canSleep": true,
@@ -9,33 +9,20 @@
         "moving": {
             "canLook": false,
             "walk": {
-				"walkSpeed": 0.200,
                 "canWalk": true,
                 "avoidsLand": false
             },
             "swim": {
                 "swimSpeed": 0.1,
                 "canSwimInWater": true,
-                "canBreatheUnderwater": true
+                "canBreatheUnderwater": false
             }
         }
     },
-    "forms": [
-        {
-            "name": "west",
-      "aspects": [
-        "west"
-      ],
-  "preEvolution": "shellos form=west"
-        }
-    ],
-  "baseScale": 0.8,
-  "hitbox": {
-    "width": 1,
-    "height": 0.7,
-    "fixed": false
-  },
-	  	  "features": [
-        "west"
-    ]
+    "baseScale": 0.6,
+    "hitbox": {
+        "width": 1.0,
+        "height": 1.0,
+        "fixed": false
+    }
 }

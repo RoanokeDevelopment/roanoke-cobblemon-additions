@@ -1,6 +1,6 @@
 {
-    "target": "cobblemon:rockruff",
-    "baseScale": 0.7,
+  "target": "cobblemon:rockruff",
+  "baseScale": 0.7,
   "evolutions": [
     {
       "id": "rockruff_lycanroc_midnight",

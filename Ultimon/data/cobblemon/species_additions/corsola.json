@@ -24,9 +24,9 @@
         {
             "name": "galarian",
             "primaryType": "ghost",
-					"aspects": [
-			"galarian"
-		],
+            "aspects": [
+                "galarian"
+            ],
             "evolutions": [
                 {
                     "id": "corsola_cursola",
@@ -50,5 +50,7 @@
         "height": 0.8,
         "fixed": false
     },
-	"features": ["galarian"]
+    "features": [
+        "galarian"
+    ]
 }

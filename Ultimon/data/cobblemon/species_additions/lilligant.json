@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:lilligant",
+  "baseScale": 1,
+  "hitbox": {
+    "width": 1,
+    "height": 1.4,
+    "fixed": false
+  }
+}
