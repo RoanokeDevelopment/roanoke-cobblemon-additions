@@ -13,11 +13,11 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "10-45",
-            "weight": 5.0,
+            "weight": 2.5,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_snowy_forest"
+                    "#cobblemon:is_snowy"
                 ]
             }
         }
