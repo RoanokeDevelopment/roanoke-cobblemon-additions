@@ -1,5 +1,11 @@
 {
-    "target": "cobblemon:togedemaru",
+    "target": "cobblemon:cinccino",
+    "baseScale": 0.4,
+    "hitbox": {
+        "width": 0.5,
+        "height": 1.0,
+        "fixed": false
+    },
     "behaviour": {
         "resting": {
             "canSleep": true,
@@ -14,15 +20,9 @@
             },
             "swim": {
                 "swimSpeed": 0.1,
-                "canSwimInWater": false,
+                "canSwimInWater": true,
                 "canBreatheUnderwater": false
             }
         }
-    },
-    "baseScale": 0.7,
-    "hitbox": {
-        "width": 0.5,
-        "height": 1.0,
-        "fixed": false
     }
 }

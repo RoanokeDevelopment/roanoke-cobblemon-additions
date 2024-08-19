@@ -6,6 +6,16 @@
         "height": 3.3,
         "fixed": false
     },
+    "drops": {
+        "amount": "1",
+        "entries": [
+            {
+                "item": "minecraft:iron_block",
+                "quantityRange": "1-2",
+                "percentage": 50
+            }
+        ]
+    },
     "behaviour": {
         "resting": {
             "canSleep": true,

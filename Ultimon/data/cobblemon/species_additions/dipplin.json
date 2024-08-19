@@ -6,6 +6,16 @@
         "height": 0.5,
         "fixed": false
     },
+    "drops": {
+        "amount": "1",
+        "entries": [
+            {
+                "item": "minecraft:apple",
+                "quantityRange": "1-2",
+                "percentage": 50
+            }
+        ]
+    },
     "behaviour": {
         "resting": {
             "canSleep": true,

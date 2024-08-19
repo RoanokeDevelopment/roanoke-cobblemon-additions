@@ -1,28 +1,32 @@
 {
-    "target": "cobblemon:togedemaru",
+    "target": "cobblemon:marshadow",
     "behaviour": {
         "resting": {
-            "canSleep": true,
+            "canSleep": false,
             "depth": "normal",
-            "light": "0-4"
+            "light": "4-15"
         },
         "moving": {
-            "canLook": false,
+            "canLook": true,
             "walk": {
                 "canWalk": true,
+                "walkSpeed": 0.195,
                 "avoidsLand": false
             },
             "swim": {
                 "swimSpeed": 0.1,
                 "canSwimInWater": false,
                 "canBreatheUnderwater": false
+            },
+            "fly": {
+                "canFly": false
             }
         }
     },
-    "baseScale": 0.7,
+    "baseScale": 0.6,
     "hitbox": {
         "width": 0.5,
-        "height": 1.0,
+        "height": 0.8,
         "fixed": false
     }
 }
