@@ -1,6 +1,6 @@
 {
     "target": "cobblemon:celebi",
-        "behaviour": {
+    "behaviour": {
         "resting": {
             "canSleep": false,
             "depth": "normal",
@@ -17,9 +17,9 @@
                 "canSwimInWater": false,
                 "canBreatheUnderwater": false
             },
-			"fly": {
-			"canFly": true
-			}
+            "fly": {
+                "canFly": true
+            }
         }
     },
     "baseScale": 0.5,

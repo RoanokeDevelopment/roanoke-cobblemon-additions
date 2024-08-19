@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:araquanid",
+  "baseScale": 1.4,
+  "hitbox": {
+    "width": 1.95,
+    "height": 1.1,
+    "fixed": false
+  }
+}
