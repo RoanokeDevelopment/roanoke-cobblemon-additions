@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:toxicroak",
+  "baseScale": 1,
+  "hitbox": {
+    "width": 0.88,
+    "height": 1.8,
+    "fixed": false
+  }
+}

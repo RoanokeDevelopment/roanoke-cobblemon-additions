@@ -1,6 +1,6 @@
 {
     "target": "cobblemon:screamtail",
- "behaviour": {
+    "behaviour": {
         "resting": {
             "canSleep": true,
             "depth": "normal",
@@ -19,10 +19,10 @@
             }
         }
     },
-	  "baseScale": 1.0,
-  "hitbox": {
-    "width": 0.6,
-    "height": 1,
-    "fixed": false
-  }
+    "baseScale": 1.0,
+    "hitbox": {
+        "width": 0.6,
+        "height": 1,
+        "fixed": false
+    }
 }

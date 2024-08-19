@@ -1,5 +1,5 @@
 {
- "target": "cobblemon:volcanion",
+  "target": "cobblemon:volcanion",
   "baseScale": 1,
   "hitbox": {
     "width": 3.8,

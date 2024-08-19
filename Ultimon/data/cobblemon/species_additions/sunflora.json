@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:sunflora",
+  "baseScale": 1,
+  "hitbox": {
+    "width": 0.75,
+    "height": 0.75,
+    "fixed": false
+  }
+}

@@ -1,5 +1,5 @@
 {
-    "target": "cobblemon:lycanroc",
+  "target": "cobblemon:lycanroc",
   "baseScale": 1,
   "hitbox": {
     "width": 1,
@@ -7,5 +7,7 @@
     "fixed": false
   },
   "features": [
-  "dusk", "midnight"]
+    "dusk",
+    "midnight"
+  ]
 }

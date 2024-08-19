@@ -1,4 +1,14 @@
-{ 
-    "target": "cobblemon:muk",
-    "features": ["alolan"]
+{
+  "target": "cobblemon:muk",
+  "forms": [
+    {
+      "name": "Alola",
+      "baseScale": 1.2,
+      "hitbox": {
+        "width": 1.4,
+        "height": 1,
+        "fixed": false
+      }
+    }
+  ]
 }
