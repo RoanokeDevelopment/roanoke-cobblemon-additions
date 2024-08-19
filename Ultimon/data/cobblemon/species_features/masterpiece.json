@@ -1,5 +1,5 @@
 {
-  "keys": ["is_antique"],
+  "keys": ["masterpiece"],
   "type": "flag",
   "isAspect": true,
   "default": false

@@ -7,8 +7,8 @@
       "id": "spheal-1",
       "pokemon": "spheal",
       "presets": [
-                "natural"
-            ],
+        "natural"
+      ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "common",
@@ -17,8 +17,8 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-                    "#cobblemon:is_tundra"
-                ]
+          "#cobblemon:is_tundra"
+        ]
       }
     }
   ]

@@ -1,6 +1,7 @@
 {
-  "keys": ["alolan"],
+  "keys": ["antique"],
   "type": "flag",
   "isAspect": true,
   "default": false
 }
+  

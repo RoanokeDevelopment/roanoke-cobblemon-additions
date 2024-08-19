@@ -7,9 +7,6 @@
             "id": "duraludon-1",
             "pokemon": "duraludon",
             "type": "pokemon",
-            "presets": [
-                "natural"
-            ],
             "context": "grounded",
             "bucket": "rare",
             "level": "38-48",
