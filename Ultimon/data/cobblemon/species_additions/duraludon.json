@@ -39,20 +39,12 @@
     "evolutions": [
         {
             "id": "duraludon_archaludon",
-            "variant": "level_up",
+            "variant": "item_interact",
             "result": "archaludon",
             "consumeHeldItem": false,
             "learnableMoves": [],
-            "requirements": [
-                {
-                    "variant": "held_item",
-                    "itemCondition": "cobblemon:metal_coat"
-                },
-                {
-                    "variant": "level",
-                    "minLevel": 1
-                }
-            ]
+            "requirements": [],
+            "requiredContext": "cobblemon:metal_coat"
         }
     ]
 }

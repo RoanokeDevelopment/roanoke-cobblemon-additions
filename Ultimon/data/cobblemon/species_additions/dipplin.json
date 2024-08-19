@@ -8,19 +8,15 @@
   },
   "evolutions": [
     {
-      "id": "dipplin_hydrapple",
-      "variant": "level_up",
+      "id": "dipplin_hydrapple_1",
+      "variant": "item_interact",
       "result": "hydrapple",
       "consumeHeldItem": false,
       "learnableMoves": [
         "ficklebeam"
       ],
-      "requirements": [
-        {
-          "variant": "held_item",
-          "itemCondition": "minecraft:dragon_breath"
-        }
-      ]
+      "requirements": [],
+      "requiredContext": "minecraft:dragon_breath"
     }
   ],
   "behaviour": {
