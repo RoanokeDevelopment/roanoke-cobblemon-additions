@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:cinccino",
+    "implemented": true,
     "baseScale": 0.4,
     "hitbox": {
         "width": 0.5,

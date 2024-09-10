@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:tadbulb",
+    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": false,

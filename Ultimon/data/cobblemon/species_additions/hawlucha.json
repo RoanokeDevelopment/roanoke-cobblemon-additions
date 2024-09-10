@@ -1,5 +1,6 @@
 {
   "target": "cobblemon:hawlucha",
+  "implemented": true,
   "baseScale": 0.75,
   "hitbox": {
     "width": 1,

@@ -1,5 +1,6 @@
 {
-    "target": "cobblemon:azurill",
+  "target": "cobblemon:azurill",
+  "implemented": true,
   "baseScale": 0.8,
   "hitbox": {
     "width": 0.5,

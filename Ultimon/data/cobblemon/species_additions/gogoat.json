@@ -1,5 +1,6 @@
 {
-    "target": "cobblemon:gogoat",
+  "target": "cobblemon:gogoat",
+  "implemented": true,
   "baseScale": 1,
   "hitbox": {
     "width": 1,

@@ -1,5 +1,6 @@
 {
   "target": "cobblemon:sinistea",
+  "implemented": true,
   "baseScale": 1,
   "hitbox": {
     "width": 0.5,

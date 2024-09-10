@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:corsola",
+    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": true,

@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:sandygast",
+    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": true,

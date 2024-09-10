@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:ledian",
+    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": true,
