@@ -1,6 +1,6 @@
 {
   "target": "cobblemon:rayquaza",
-
+  "implemented": false,
   "baseScale": 2,
   "hitbox": {
     "width": 2,
