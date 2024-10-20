@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:minccino",
+    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": true,
@@ -19,7 +20,7 @@
             }
         }
     },
-	    "baseScale": 0.4,
+    "baseScale": 0.4,
     "hitbox": {
         "width": 0.5,
         "height": 1.0,
