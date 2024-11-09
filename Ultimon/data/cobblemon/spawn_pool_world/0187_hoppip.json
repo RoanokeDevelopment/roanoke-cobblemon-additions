@@ -1,24 +1,26 @@
 {
-    "enabled": true,
+    "enabled": "true",
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "azumarill-1",
-            "pokemon": "azumarill",
+            "id": "hoppip-1",
+            "pokemon": "hoppip",
             "presets": [
                 "natural"
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "uncommon",
-            "level": "20-35",
-            "weight": 2.5,
+            "bucket": "common",
+            "level": "4-25",
+            "weight": 9.0,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#minecraft:is_river"
-                ]
+                    "#cobblemon:is_plains"
+                ],
+                "timeRange": "day",
+                "isRaining": false
             }
         }
     ]

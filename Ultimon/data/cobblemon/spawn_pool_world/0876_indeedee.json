@@ -1,23 +1,23 @@
 {
-    "enabled": true,
+    "enabled": "true",
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "azumarill-1",
-            "pokemon": "azumarill",
+            "id": "indeedee",
+            "pokemon": "indeedee",
             "presets": [
                 "natural"
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "uncommon",
-            "level": "20-35",
-            "weight": 2.5,
+            "bucket": "rare",
+            "level": "28-46",
+            "weight": 2.0,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#minecraft:is_river"
+                    "#cobblemon:is_magical"
                 ]
             }
         }

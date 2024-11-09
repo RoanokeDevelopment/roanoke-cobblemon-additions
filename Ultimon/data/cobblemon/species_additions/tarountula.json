@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:tarountula",
+  "implemented": true,
+  "baseScale": 0.5,
+  "hitbox": {
+    "width": 1.5,
+    "height": 1.7,
+    "fixed": false
+  }
+}

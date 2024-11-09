@@ -1,23 +1,23 @@
 {
-    "enabled": true,
+    "enabled": "true",
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "azumarill-1",
-            "pokemon": "azumarill",
+            "id": "gothorita-1",
+            "pokemon": "gothorita",
             "presets": [
                 "natural"
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "uncommon",
-            "level": "20-35",
-            "weight": 2.5,
+            "bucket": "rare",
+            "level": "32-46",
+            "weight": 5.0,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#minecraft:is_river"
+                    "#cobblemon:is_spooky"
                 ]
             }
         }
