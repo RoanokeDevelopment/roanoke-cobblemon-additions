@@ -1,0 +1,32 @@
+{
+	"species": "cobblemon:ironmoth",
+	"order": 1,
+	"variations": [
+		{
+			"aspects": [],
+			"poser": "cobblemon:ironmoth",
+			"model": "cobblemon:ironmoth.geo",
+			"texture": "cobblemon:textures/pokemon/ironmoth/ironmoth.png",
+			"layers": [
+				{
+					"name": "glow",
+					"texture": "cobblemon:textures/pokemon/ironmoth/ironmoth_emissive.png",
+					"emissive": true
+				}
+			]
+		},
+		{
+			"aspects": [
+				"shiny"
+			],
+			"texture": "cobblemon:textures/pokemon/ironmoth/ironmoth_shiny.png",
+			"layers": [
+				{
+					"name": "glow",
+					"texture": "cobblemon:textures/pokemon/ironmoth/ironmoth_emissive.png",
+					"emissive": true
+				}
+			]
+		}
+	]
+}
