@@ -1,6 +1,6 @@
 {
   "target": "cobblemon:zeraora",
-  "implemented": false,
+  "implemented": true,
   "shoulderMountable": false,
   "baseScale": 0.7,
   "hitbox": {

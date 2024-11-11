@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:nihilego",
+    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": false,

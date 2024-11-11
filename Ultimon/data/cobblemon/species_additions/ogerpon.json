@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:ogerpon",
+    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": true,

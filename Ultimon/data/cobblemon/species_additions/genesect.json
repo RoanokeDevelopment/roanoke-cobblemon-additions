@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:genesect",
+    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": false,

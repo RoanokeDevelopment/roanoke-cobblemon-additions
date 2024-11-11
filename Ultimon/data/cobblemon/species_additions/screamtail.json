@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:screamtail",
+    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": true,

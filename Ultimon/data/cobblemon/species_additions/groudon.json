@@ -1,6 +1,6 @@
 {
   "target": "cobblemon:groudon",
-
+  "implemented": true,
   "baseScale": 2,
   "hitbox": {
     "width": 3.5,

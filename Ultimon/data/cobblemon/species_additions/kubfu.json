@@ -1,6 +1,6 @@
 {
   "target": "cobblemon:kubfu",
-  "implemented": false,
+  "implemented": true,
   "evolutions": [],
   "baseScale": 0.6,
   "hitbox": {

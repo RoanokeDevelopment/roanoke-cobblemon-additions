@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:meltan",
+    "implemented": true,
     "baseScale": 0.3,
     "hitbox": {
         "width": 0.4,
