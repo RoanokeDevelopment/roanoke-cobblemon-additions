@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:virizion",
+  "implemented": true,
+  "baseScale": 0.8,
+  "hitbox": {
+    "width": 1.3,
+    "height": 2.4,
+    "fixed": false
+  }
+}

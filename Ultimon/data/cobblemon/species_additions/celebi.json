@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:celebi",
+    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": false,

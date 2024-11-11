@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:ogerpon",
+    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": true,
@@ -19,6 +20,10 @@
             }
         }
     },
+    "labels": [
+        "gen9",
+        "legendary"
+    ],
     "baseScale": 0.6,
     "hitbox": {
         "width": 1.0,
