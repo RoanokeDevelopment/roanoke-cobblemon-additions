@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:duraludon",
+    "implemented": true,
     "baseScale": 1.5,
     "hitbox": {
         "width": 1.0,
@@ -42,7 +43,9 @@
             "variant": "item_interact",
             "result": "archaludon",
             "consumeHeldItem": false,
-            "learnableMoves": [],
+            "learnableMoves": [
+                "electroshot"
+            ],
             "requirements": [],
             "requiredContext": "cobblemon:metal_coat"
         }

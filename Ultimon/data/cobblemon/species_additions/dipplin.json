@@ -1,5 +1,6 @@
 {
   "target": "cobblemon:dipplin",
+  "implemented": true,
   "baseScale": 0.4,
   "hitbox": {
     "width": 0.5,

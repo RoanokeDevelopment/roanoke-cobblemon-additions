@@ -1,5 +1,6 @@
 {
   "target": "cobblemon:toedscruel",
+  "implemented": true,
   "baseScale": 0.9,
   "hitbox": {
     "width": 1.2,

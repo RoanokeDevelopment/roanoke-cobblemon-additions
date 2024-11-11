@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:poltchageist",
+    "implemented": true,
     "drops": {
         "amount": "1",
         "entries": [

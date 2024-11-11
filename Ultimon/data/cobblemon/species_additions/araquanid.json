@@ -1,5 +1,6 @@
 {
   "target": "cobblemon:araquanid",
+  "implemented": true,
   "baseScale": 1.4,
   "hitbox": {
     "width": 1.95,

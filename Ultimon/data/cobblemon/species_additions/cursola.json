@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:cursola",
+    "implemented": true,
   	"behaviour": {
     "moving": {
       "canLook": false,
@@ -15,7 +16,7 @@
       }
     }
   },
-    "preEvolution": "corsola form=galar",
+    "preEvolution": "corsola galarian",
   "evolutions": [],
   "baseScale": 0.8,
   "hitbox": {

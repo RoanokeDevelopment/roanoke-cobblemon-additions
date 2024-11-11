@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:togedemaru",
+    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": true,

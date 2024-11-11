@@ -1,5 +1,6 @@
 {
     "target": "cobblemon:cramorant",
+    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": true,
