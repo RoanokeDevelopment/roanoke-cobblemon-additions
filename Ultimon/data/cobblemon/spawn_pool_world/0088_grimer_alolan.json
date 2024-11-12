@@ -21,7 +21,7 @@
                 }
             },
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#minecraft:is_beach"
                 ]

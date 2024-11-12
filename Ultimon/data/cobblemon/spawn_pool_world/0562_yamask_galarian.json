@@ -16,6 +16,7 @@
             "weight": 20.0,
             "condition": {
                 "maxLight": 7,
+                "maxSkyLight": 0,
                 "neededNearbyBlocks": [
                     "minecraft:stone_bricks",
                     "minecraft:cracked_stone_bricks",

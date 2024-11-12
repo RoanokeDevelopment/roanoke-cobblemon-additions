@@ -15,8 +15,8 @@
             "level": "15-36",
             "weight": 20.0,
             "condition": {
-                "canSeeSky": false,
-                "minHeight":2,
+                "maxSkyLight": 7,
+                "minHeight":0,
                 "biomes": [
                     "minecraft:deep_dark"
                 ]

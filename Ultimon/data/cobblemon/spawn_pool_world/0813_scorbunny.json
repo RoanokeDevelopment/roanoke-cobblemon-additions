@@ -15,7 +15,7 @@
             "level": "5-31",
             "weight": 9.0,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_grassland"
                 ]

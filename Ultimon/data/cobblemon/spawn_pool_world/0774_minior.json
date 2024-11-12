@@ -15,6 +15,7 @@
             "level": "20-30",
             "weight": 10.0,
             "condition": {
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_peak"
                 ]
@@ -35,7 +36,6 @@
                 "biomes": [
                     "#cobblemon:is_nether"
                 ]
-                
             }
         },
         {
@@ -51,11 +51,10 @@
             "weight": 10.0,
             "condition": {
                 "timeRange": "night",
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_savanna"
                 ]
-                
             }
         },
         {
@@ -71,11 +70,10 @@
             "weight": 10.0,
             "condition": {
                 "timeRange": "night",
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_sandy"
                 ]
-                
             }
         },
         {
@@ -91,11 +89,10 @@
             "weight": 10.0,
             "condition": {
                 "timeRange": "night",
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_jungle"
                 ]
-                
             }
         },
         {
@@ -111,11 +108,10 @@
             "weight": 10.0,
             "condition": {
                 "timeRange": "night",
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_freshwater"
                 ]
-                
             }
         },
         {
@@ -131,11 +127,10 @@
             "weight": 10.0,
             "condition": {
                 "timeRange": "night",
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_glacial"
                 ]
-                
             }
         },
         {
@@ -153,7 +148,6 @@
                 "biomes": [
                     "#cobblemon:is_end"
                 ]
-                
             }
         }
     ]

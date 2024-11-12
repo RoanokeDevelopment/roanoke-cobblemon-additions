@@ -15,6 +15,7 @@
             "level": "8-25",
             "weight": 8.0,
             "condition": {
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_cold"
                 ]
@@ -49,6 +50,7 @@
             "level": "4-25",
             "weight": 4.0,
             "condition": {
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_freezing"
                 ]

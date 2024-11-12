@@ -6,28 +6,36 @@
     {
       "id": "spidops-1",
       "pokemon": "spidops",
-      "presets": ["natural"],
+      "presets": [
+        "natural"
+      ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "uncommon",
       "level": "15-28",
       "weight": 11.0,
       "condition": {
-        "canSeeSky": true,
-        "biomes": ["minecraft:bamboo_jungle"]
+        "minSkyLight": 8,
+        "biomes": [
+          "minecraft:bamboo_jungle"
+        ]
       }
     },
     {
       "id": "spidops-2",
       "pokemon": "spidops",
-      "presets": ["natural"],
+      "presets": [
+        "natural"
+      ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",
       "level": "20-35",
       "weight": 9.0,
       "condition": {
-        "biomes": ["minecraft:bamboo_jungle"]
+        "biomes": [
+          "minecraft:bamboo_jungle"
+        ]
       }
     }
   ]

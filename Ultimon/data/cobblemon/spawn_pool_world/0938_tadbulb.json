@@ -15,7 +15,7 @@
             "level": "15-32",
             "weight": 3.8,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "minecraft:mangrove_swamp"
                 ]

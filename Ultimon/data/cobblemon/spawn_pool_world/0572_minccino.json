@@ -15,7 +15,7 @@
             "level": "15-20",
             "weight": 7.1,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "minecraft:birch_forest"
                 ]

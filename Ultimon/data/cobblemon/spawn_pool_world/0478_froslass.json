@@ -16,6 +16,7 @@
             "weight": 5.0,
             "condition": {
                 "timeRange": "twilight",
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_freezing"
                 ]

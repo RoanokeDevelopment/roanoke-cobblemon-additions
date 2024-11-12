@@ -15,7 +15,7 @@
             "level": "1-21",
             "weight": 5,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_swamp",
 					"#cobblemon:is_coast",
@@ -36,7 +36,7 @@
             "level": "1-21",
             "weight": 5,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_river",
 					"#cobblemon:is_freshwater"

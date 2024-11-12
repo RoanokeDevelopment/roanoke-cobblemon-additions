@@ -8,7 +8,7 @@
             "pokemon": "togepi",
             "presets": [
                 "natural",
-		"flowers"
+                "flowers"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -17,9 +17,10 @@
             "weight": 10.0,
             "condition": {
                 "timeRange": "morning",
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_magical",
-		    "#cobblemon:is_floral"
+                    "#cobblemon:is_floral"
                 ]
             }
         }

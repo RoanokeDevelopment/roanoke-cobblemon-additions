@@ -15,7 +15,7 @@
             "level": "10-36",
             "weight": 7.8,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_swamp"
                 ]
@@ -33,7 +33,7 @@
             "level": "10-36",
             "weight": 14.5,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_swamp"
                 ],

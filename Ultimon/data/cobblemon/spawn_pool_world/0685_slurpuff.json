@@ -15,7 +15,7 @@
             "level": "25-50",
             "weight": 0.05,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_magical"
                 ]

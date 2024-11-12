@@ -13,9 +13,9 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "41-60",
-            "weight": 6.0,
+            "weight": 5.0,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_spooky"
                 ]

@@ -15,7 +15,7 @@
             "level": "27-46",
             "weight": 0.1,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_plains"
                 ],
