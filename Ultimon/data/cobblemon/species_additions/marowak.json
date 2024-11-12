@@ -1,0 +1,19 @@
+{
+  "target": "cobblemon:marowak",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:bone"
+      },
+      {
+        "item": "cobblemon:nanab_berry",
+        "percentage": 5.0
+      },
+      {
+        "item": "minecraft:skeleton_skull",
+        "percentage": 3.5
+      }
+    ]
+  }
+}
