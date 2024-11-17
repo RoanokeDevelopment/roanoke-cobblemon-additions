@@ -13,6 +13,7 @@ Individual attributions:
 * [MissingMons](https://discord.com/channels/934267676354834442/1128429676910620763/1128429676910620763) by redriibbon
 * [MoMons](https://discord.com/channels/934267676354834442/1091459700593270784/1091459700593270784) by defaultcubesenpai
 * [Pigeon's Pack](https://discord.com/channels/934267676354834442/1128128269917634650/1128128269917634650) by elpigeon
+* [Pride Vivillons](https://modrinth.com/datapack/vivillon-pride-patterns) by the Cobblemon team
 * [WaviMons](https://modrinth.com/datapack/wavimons-(cobblemon)) by BWavii
 
 
