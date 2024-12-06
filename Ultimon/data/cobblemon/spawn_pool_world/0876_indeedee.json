@@ -13,9 +13,9 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "28-46",
-            "weight": 2.0,
+            "weight": 8.0,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_magical"
                 ]

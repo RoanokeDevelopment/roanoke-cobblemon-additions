@@ -12,7 +12,7 @@
             "level": "10-25",
             "weight": 5.8,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 1,
                 "biomes": [
                     "#minecraft:is_overworld"
                 ],

@@ -12,10 +12,29 @@
             ],
             "context": "grounded",
             "bucket": "rare",
-            "level": "15-20",
-            "weight": 6.8,
+            "level": "16-25",
+            "weight": 5.0,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
+                "biomes": [
+                    "#cobblemon:is_forest"
+                ]
+            }
+        },
+        {
+            "id": "applin-2",
+            "pokemon": "applin",
+            "type": "pokemon",
+            "presets": [
+                "natural",
+                "treetop"
+            ],
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "15-20",
+            "weight": 5.0,
+            "condition": {
+                "minSkyLight": 13,
                 "biomes": [
                     "#cobblemon:is_forest"
                 ]

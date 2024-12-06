@@ -1,9 +1,6 @@
 {
   "target": "cobblemon:escavalier",
   "implemented": true,
-  "eggGroups": [
-    "undiscovered"
-  ],
   "baseScale": 0.7,
   "hitbox": {
     "width": 1.5,

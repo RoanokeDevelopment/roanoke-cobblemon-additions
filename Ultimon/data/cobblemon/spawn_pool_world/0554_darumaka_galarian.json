@@ -15,7 +15,7 @@
             "level": "7-30",
             "weight": 8.0,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "minecraft:frozen_peaks"
                 ]

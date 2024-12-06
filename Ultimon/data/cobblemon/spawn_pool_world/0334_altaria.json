@@ -15,7 +15,7 @@
             "level": "35-48",
             "weight": 2.0,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
 		        "minY": 128,
                 "biomes": [
                     "#cobblemon:is_mountain"

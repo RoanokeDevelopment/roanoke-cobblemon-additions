@@ -15,7 +15,7 @@
             "level": "35-48",
             "weight": 4.8,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_mushroom"
                 ]

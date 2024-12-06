@@ -13,9 +13,9 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "35-53",
-            "weight": 3.0,
+            "weight": 2.0,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "minecraft:frozen_peaks"
                 ]

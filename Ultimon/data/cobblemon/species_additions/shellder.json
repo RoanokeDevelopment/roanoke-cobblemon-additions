@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:shellder",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:shulker_shell",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:aspear_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:shell_bell",
+        "percentage": 2.5
+      }
+
+    ]
+  }
+}

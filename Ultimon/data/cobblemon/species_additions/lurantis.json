@@ -1,6 +1,5 @@
 {
     "target": "cobblemon:lurantis",
-    "implemented": true,
     "behaviour": {
         "resting": {
             "canSleep": true,

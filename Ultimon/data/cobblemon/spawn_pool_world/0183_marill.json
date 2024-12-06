@@ -15,7 +15,7 @@
             "level": "20-35",
             "weight": 6.8,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#minecraft:is_river"
                 ]

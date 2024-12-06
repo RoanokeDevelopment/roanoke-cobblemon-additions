@@ -13,9 +13,9 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "24-45",
-            "weight": 2.0,
+            "weight": 4.0,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_desert"
                 ]

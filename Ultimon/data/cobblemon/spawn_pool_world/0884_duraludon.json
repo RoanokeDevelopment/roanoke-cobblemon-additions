@@ -12,7 +12,7 @@
             "level": "38-48",
             "weight": 8.06,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_overworld"
                 ],
@@ -33,6 +33,7 @@
             "level": "38-48",
             "weight": 7.5,
             "condition": {
+                "minSkyLight": 8,
                 "biomes": [
                     "#cobblemon:is_snowy_forest"
                 ]
