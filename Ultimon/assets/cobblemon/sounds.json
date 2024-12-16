@@ -1,7 +1,22 @@
 {
-    "pokemon.ashgreninja.music": {
+    "pokemon.druddigon.cry": {
         "sounds": [
-          "cobblemon:pokemon/ashgreninja/ashgreninjatheme"
+            "cobblemon:pokemon/druddigon/pokemon.druddigon.cry"
         ]
-      }
+    },
+    "pokemon.cosmog.cry": {
+        "sounds": [
+            "cobblemon:pokemon/cosmog/cosmog"
+        ]
+    },
+    "pokemon.cosmoem.cry": {
+        "sounds": [
+            "cobblemon:pokemon/cosmoem/cosmoem"
+        ]
+    },
+    "pokemon.roaringmoon.cry": {
+        "sounds": [
+            "cobblemon:pokemon/roaringmoon/roaringmoon_cry"
+        ]
+    }
 }
